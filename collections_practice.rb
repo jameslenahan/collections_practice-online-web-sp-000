@@ -11,7 +11,6 @@ def sort_array_desc(array)
 end
 
 def sort_array_char_count(array)
-  char_count = i
   char_count.sort do |i|
     a <=> b 
   end
